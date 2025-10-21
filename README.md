@@ -14,28 +14,28 @@ They are designed for researchers and cyber security professionals to effectivel
 
 ChromeForensics samples are capable of harvesting the following data from a chrome profile
 
-- ### The Browsers Installation & Default state.  
+### The Browsers Installation & Default state.  
 It can detect whether Google Chrome is installed and if it is currently being used as the default browser on the system 
 
-- ### Profile/User image
+### Profile/User image
 It can download the users currently used profile image locally from Chromes cache to the desktop 
 
-- ### Extentions
+### Extentions
 What browser extentions the user currently has installed on their Google Chrome profile
 
-- ### Bookmarks
+### Bookmarks
 What bookmarks the user has added on their topbar within the browser
 
 ![](https://i.ibb.co/BPTF6b0/bookmark.png)
 
-- ### Download History
+### Download History
 All of the users recent and old download history, including links, timestamps and external sources
 
-- ### Search History
+### Search History
 All of the users search history from within the systems cache and default browser settings including timestamps, urls and visited 3rd party redirects
 
 ![](https://i.ibb.co/jhHMZMV/passwords.png)
 
-- ### Saved Passwords & Login History
+### Saved Passwords & Login History
 All of the users 'kept' site logins, along with password hashes, full urls, timestamps and when the login was created on the system
 
