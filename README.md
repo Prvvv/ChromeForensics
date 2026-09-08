@@ -1,7 +1,7 @@
 # ChromeForensics
 Different code samples for Chrome browser analysis &amp; post exploitation
 
-> ChromeForensics should ***NOT*** be used for the purposes of unethical system hijacking or doxxing, and was made with the intentions of security research, pentests and data analysis. Any issues or complaints: prv@anche.no
+> ChromeForensics should ***NOT*** be used for the purposes of unethical system hijacking or doxxing, and was made with the intentions of security research, pentests and data analysis. 
 
 ## Overview & Purpose
 
